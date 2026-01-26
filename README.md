@@ -62,4 +62,4 @@ Connect the circuit like in the [circuit diagram](https://github.com/user-attach
 > Make sure to never put your LW out of their Skid docks at any time, or if you do, make sure to make them step on their pod before starting a new step. It could maybe, for some steps, completely mess the process. Also, this program might not work correctly if one of your LW gets devirted / detranslated.
 
 ## The LW status lamp
-Insert other thing than Lorem Ipsum dolor sit amet here.
+The LED is called the LW status lamp. Its main purpose is to indicate in a pretty way which LW is being "used" (selected, translated, et cetera). The colour depends on the warrior : light pink for Aelita, purple for Odd, purple-ish red for Yumi, yellow for Ulrich and light blue for William.
