@@ -18,7 +18,7 @@ Here is all the required equipment.
 - 1 RGB LED
 - 3 220 Ω resistors
 
-Connect the circuit like in the [circuit diagram](https://github.com/user-attachments/files/24770229/IFSCL.Skidbladnir.manager.pdf).
+Connect the circuit like in the [circuit diagram](https://github.com/user-attachments/files/24869664/IFSCL.Skidbladnir.manager.circuit.diagram.pdf).
 
 ### Uploading the program to the board
 1. Open the file in the Arduino IDE.
