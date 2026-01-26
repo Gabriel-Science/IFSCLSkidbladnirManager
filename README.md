@@ -3,7 +3,8 @@ An Arduino UNO R4 WiFi program for controlling efficiently the Skidbladnir in IF
 
 ## The trailer
 https://youtu.be/FsugQy2wQs0
-![La miniature du trailer YouTube](https://github.com/user-attachments/assets/9a3d8b7d-f3ed-4ea2-a177-bb0fe72e454d)
+![La miniature du trailer YouTube](https://github.com/user-attachments/assets/6693a550-1b30-40ca-a942-0e0d8806528a)
+
 
 
 ## How to use ?
