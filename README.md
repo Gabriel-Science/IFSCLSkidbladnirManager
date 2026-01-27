@@ -1,6 +1,9 @@
 # IFSCLSkidbladnirManager
 An Arduino UNO R4 WiFi program for controlling efficiently the Skidbladnir in IFSCL in Replika missions.
 
+> [!CAUTION]
+> This program shall **never** be used for any kind of cheating. I am not responsible if someone use it wrongfully in a competition, in speedrun, etc. See [the license](/LICENSE.md) for more informations.
+
 ## The trailer
 https://youtu.be/FsugQy2wQs0
 ![La miniature du trailer YouTube](https://github.com/user-attachments/assets/6693a550-1b30-40ca-a942-0e0d8806528a)
