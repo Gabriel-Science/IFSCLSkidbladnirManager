@@ -70,13 +70,5 @@ Connect the circuit like in the [circuit diagram](https://github.com/user-attach
 The LED is called the LW status lamp. Its main purpose is to indicate in a pretty way which LW is being "used" (selected, translated, et cetera). The colour depends on the warrior : light pink for Aelita, purple for Odd, purple-ish red for Yumi, yellow for Ulrich and light blue for William. Please note that there is an additional colour : red. It indicates the end of the program.
 
 Here are previews on how they look for each LW :
-### Aelita
-![Aelita](https://github.com/user-attachments/assets/fd893aae-1558-4d95-8960-ce2b1057c0cc)
-### Odd
-![Odd](https://github.com/user-attachments/assets/a499f8ec-b26d-41ff-ae09-ec9fbe99c79b)
-### Yumi
-![Yumi](https://github.com/user-attachments/assets/b04fa92b-b056-4031-a750-8d92f173c29c)
-### Ulrich
-![Ulrich](https://github.com/user-attachments/assets/f5cfa2b4-43b8-4977-9e38-a5ef075da835)
-### William
-![William](https://github.com/user-attachments/assets/f38872ce-2e30-4a05-a380-b14c6727e117)
+
+### This part is temporarily unavailable.
