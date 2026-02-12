@@ -71,4 +71,17 @@ The LED is called the LW status lamp. Its main purpose is to indicate in a prett
 
 Here are previews on how they look for each LW :
 
-### This part is temporarily unavailable.
+### Aelita
+![Aelita](https://github.com/user-attachments/assets/d7a75094-e3d1-4ee2-9a86-6c4fcb8d2188)
+
+### Odd
+![Odd](https://github.com/user-attachments/assets/fc7d03cf-0bdb-48a6-8a85-3b45a043bb30)
+
+### Yumi
+![Yumi](https://github.com/user-attachments/assets/ee6d0584-ae86-4cac-870a-9555934a7b21)
+
+### Ulrich
+![Ulrich](https://github.com/user-attachments/assets/b63ca68e-3bf2-4e0b-893c-3029ba35b680)
+
+### William
+![William](https://github.com/user-attachments/assets/968b5abb-5a7d-411e-970e-dc52508d9632)
