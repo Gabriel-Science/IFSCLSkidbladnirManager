@@ -94,7 +94,6 @@ void loop() {
     if (digitalRead(button5) == LOW) { // If the fifth button is pressed (William)
       warriorSelection(4, button5);
     }
-    // matrix.renderBitmap(frame, matrixHeight, matrixWidth);
   }
 
 
