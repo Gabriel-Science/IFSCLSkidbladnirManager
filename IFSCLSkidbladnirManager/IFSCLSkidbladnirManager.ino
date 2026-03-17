@@ -35,7 +35,7 @@ uint8_t frame[8][12] = {0};
 RGBLed led(6, 5, 3, RGBLed::COMMON_CATHODE);
 
 int mode = 0; // 0 is LW selection, 1 is going into VWorld, 2 is TSL, 3 is LW swapping, 4 is devirt and autopilot.
-int LW[] = {0, 0, 0, 0, 0}; // Which LG is in mission (Aelita, Odd, Yumi, Ulrich, William)
+int LW[] = {0, 0, 0, 0, 0}; // Which LW is in mission (Aelita, Odd, Yumi, Ulrich, William)
 int LWNumber = 0;
 int translatedLW[] = {0, 0, 0, 0, 0};
 int translatedLWNumber = 0;
