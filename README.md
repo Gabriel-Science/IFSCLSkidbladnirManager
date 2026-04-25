@@ -52,7 +52,7 @@ Connect the circuit like in the [circuit diagram](https://github.com/user-attach
 - When you need it, press the main button to go to the next step.
 #### Swapping
 > [!NOTE]
-> This step will be skipped it everyone is translated.
+> This step will be skipped if everyone is translated.
 - All the currently translated LW will be detranslated.
 - The LW that were currently not translated will be translated
 - When you need it, press the main button to go to the next step.
