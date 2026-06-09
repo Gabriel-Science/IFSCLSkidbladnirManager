@@ -7,6 +7,8 @@ An Arduino UNO R4 WiFi program for controlling efficiently the Skidbladnir in IF
 ## The trailer
 https://youtu.be/FsugQy2wQs0
 ![La miniature du trailer YouTube](https://github.com/user-attachments/assets/6693a550-1b30-40ca-a942-0e0d8806528a)
+## Update : The video demonstration
+[Démo de l'IFSCL Skidbladnir Manager](https://youtu.be/05_vbrxOtqc)
 
 ## How it works
 The Arduino UNO R4 has a special ability : being able to enter keypresses, like a keyboard. By using that, it's possible to do almost any "in-interface" action (IFSCL is based around the Terminal for the biggest part). The program can then do the whole process on the Arduino (no special software required on PC).
