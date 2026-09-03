@@ -36,7 +36,7 @@ Connect the circuit like in the [circuit diagram](https://github.com/user-attach
 
 ### Usage
 > [!CAUTION]
-> Please note that this program is not lag-proof. A powerful PC is advised. If you can't get enough FPS even when lowering down the game's quality, the only consistent way is to set the `minCommandTime` integer to a bigger value.
+> Please note that this program is not lag-proof. A powerful PC is advised. If you can't get enough FPS even when lowering down the game's quality, the only consistent way is to set the `minCommandTime` integer to a greater value.
 
 > [!IMPORTANT]
 > The Lyoko-warriors who are selected in the first step will be shown on the first line of the LED matrix. The LW that are translated are shown on the second line too. The order is Aelita, Odd, Yumi, Ulrich and William.
